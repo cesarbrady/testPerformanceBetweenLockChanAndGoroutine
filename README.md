@@ -1,2 +1,3 @@
 # testPerformanceBetweenLockChanAndGoroutine
-test Performance Between Lock Chan And Goroutine
+
+A simple program that test Performance Between Lock, Chan And Goroutine
